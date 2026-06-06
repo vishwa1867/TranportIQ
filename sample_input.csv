@@ -1,0 +1,6 @@
+goods,weight_kg,quantity,origin,destination,urgency,notes
+Rice (Basmati),5000,100 bags,Delhi,Mumbai,normal,Handle with care - food grade
+Cement,20000,400 bags,Hyderabad,Chennai,normal,Waterproof covering required
+Electronics,800,50 cartons,Bangalore,Kolkata,urgent,Fragile - extra padding needed
+Cotton Fabric,3000,60 bales,Surat,Ludhiana,normal,Keep dry
+Steel Rods,15000,200 bundles,Pune,Ahmedabad,normal,Heavy machinery required for loading
